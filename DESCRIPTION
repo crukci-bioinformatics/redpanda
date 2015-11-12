@@ -1,0 +1,10 @@
+Package: redpanda
+Type: Package
+Title: What the package does (short line)
+Version: 1.0
+Date: 2015-11-12
+Author: Cancer Research Uk Cambridge Institute
+Maintainer: Mark Dunning <mark.dunning@cruk.cam.ac.ukt>
+Description: More about what it does (maybe more than one line)
+License: GPL-2
+Imports: RColorBrewer, reshape2, drc, survival
